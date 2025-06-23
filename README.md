@@ -1,4 +1,5 @@
 💰 Billionaires Dashboard
+
 This project is an interactive Power BI Dashboard that provides a comprehensive view of billionaires across the globe. It showcases their total wealth, distribution by continent, industry, gender, and more, making it easy to understand the global landscape of the ultra-rich.
 
 
@@ -56,4 +57,4 @@ This project is ideal for:
 
 🌍 Policy Makers & NGOs working towards understanding global economic dynamics
 
-Dashboard snapshot link : 
+Dashboard snapshot link : https://github.com/himanshu-tech03/Billionaires-Dashboard/blob/main/snapshot%20of%20dashboard.jpg
